@@ -1,0 +1,7 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Data and Local Databases
+data_raw/
+
