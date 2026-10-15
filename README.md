@@ -3,7 +3,7 @@
 A public, end-to-end portfolio of data engineering, dimensional modelling, data architecture and generative AI work on the Databricks Lakehouse, built entirely on **open public datasets**.
 
 **Author:** Asadul Islam, Principal Data Modeller, Brisbane, Australia
-**Focus:** Data Architect and AI roles
+**Focus:** Data Architect and AI
 **Status:** In progress (started October 2026). The status table below shows what is complete.
 
 ---
@@ -79,4 +79,4 @@ Code and documentation in this repository are released under the MIT Licence (se
 
 ## Contact
 
-Asadul Islam: connect on LinkedIn (add your profile link here).
+Asadul Islam: connect on LinkedIn (https://www.linkedin.com/in/khandokerasadulislam/).
